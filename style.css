@@ -1,0 +1,10 @@
+body {
+      color: green;
+      max-width: 600px;
+      margin: auto;
+}
+
+h1 {
+      color: red;
+      text-align: center;
+}
