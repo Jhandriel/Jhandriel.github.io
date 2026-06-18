@@ -2,12 +2,12 @@ body {
       background-color: light-blue;
 }     
 body {
-      color: White;
+      color: black;
       max-width: 600px;
       margin: auto;
 }
 
 h1 {
-      color: White;
+      color: black;
       text-align: center;
 }
