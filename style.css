@@ -1,10 +1,13 @@
 body {
-      color: black;
+      background-color: Blue;
+}     
+body {
+      color: White;
       max-width: 600px;
       margin: auto;
 }
 
 h1 {
-      color: black;
+      color: White;
       text-align: center;
 }
